@@ -11,7 +11,7 @@
 Создание txt-файла
 
 ![](https://github.com/Guestfll/TOIB/blob/main/attachments/Pasted%20image%2020231210204143.png)
-#### Попытка открыть текстовый файл без привелегей
+#### Попытка открыть текстовый файл без привелегий
 
 ![](https://github.com/Guestfll/TOIB/blob/main/attachments/Pasted%20image%2020231210204259.png)
 
