@@ -17,12 +17,12 @@
 
 Вывод в Grafana:
 
-![](_attachments/Pasted%20image%2020231125234334.png)
+![](https://github.com/Guestfll/TOIB/blob/main/Pasted%20image%2020231125234334.png)
 
 
 Настройка SigNoz: ([docker-compose](https://signoz.io/docs/install/docker/#install-signoz-using-docker-compose))
 
-![](../../Pasted%20image%2020231203184553.png)
-![](../../Pasted%20image%2020231203184806.png)
-![](../../Pasted%20image%2020231203184842.png)
+![](https://github.com/Guestfll/TOIB/blob/main/Pasted%20image%2020231203184553.png))
+![](https://github.com/Guestfll/TOIB/blob/main//Pasted%20image%2020231203184806.png)
+![](https://github.com/Guestfll/TOIB/blob/main/Pasted%20image%2020231203184842.png)
 
