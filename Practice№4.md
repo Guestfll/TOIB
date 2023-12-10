@@ -25,7 +25,5 @@
 
 ![](https://github.com/Guestfll/TOIB/blob/main/attachments/Pasted%20image%2020231203184553.png)
 
-![](https://github.com/Guestfll/TOIB/blob/main/attachments/Pasted%20image%2020231203184806.png)
-
 ![](https://github.com/Guestfll/TOIB/blob/main/attachments/Pasted%20image%2020231203184842.png)
 
