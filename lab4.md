@@ -45,6 +45,10 @@
 
 ![](https://github.com/Guestfll/TOIB/blob/main/attachments/Pasted%20image%2020240118200816.png)
 
+### 12. Создание цифровой подписи, вставленной в содержимое файла
+
+![](https://github.com/Guestfll/TOIB/blob/main/attachments/Pasted%20image%2020240118232535.png)
+
 
 
 
